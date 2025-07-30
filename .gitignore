@@ -1,2 +1,17 @@
+# Node.js & environment artifacts
 node_modules/
 .env
+
+# Logs & OS junk
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
